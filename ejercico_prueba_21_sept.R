@@ -10,3 +10,5 @@ datos_limpios <- mtcars %>%
 
 # grafico los datos
 plot(x = mtcars$wt, y = mtcars$mpg)
+
+# cambio
